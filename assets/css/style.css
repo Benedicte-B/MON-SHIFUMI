@@ -13,27 +13,27 @@
 
 /*======== BACKGROUND ========*/
 .bgpart1{
-    background: url(../img/BG1.png);
+    background: url(../img/BG1.jpg);
     background-size: cover;
     height : 100vh;
 }
 .bgpart2{
-    background: url(../img/BG1.png);
+    background: url(../img/BG1.jpg);
     background-size: cover;
     height : 100vh;
 }
 .bgpart3{
-    background: url(../img/BG1.png);
+    background: url(../img/BG1.jpg);
     background-size: cover;
     height : 100vh;
 }
 .bgpart4{
-    background: url(../img/BG4.png);
+    background: url(../img/BG4.jpg);
     background-size: cover;
     height : 100vh;
 }
 .bgpart5{
-    background: url(../img/BG5.png);
+    background: url(../img/BG5.jpg);
     background-size: cover;
     height : 100vh;
 }
